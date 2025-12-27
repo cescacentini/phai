@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+PHAIenv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Data and indexes
+data/
+*.index
+*.npy
+*.pkl
+
+# Media files (optional - uncomment if you don't want to track media)
+# *.jpg
+# *.jpeg
+# *.png
+# *.mp4
+# *.mov
+# *.avi
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# App bundles
+*.app/
+PHAI.app/
+PHAI_Launcher.app/
+
+# Scripts (keep them but note they're executable)
+# *.sh
+# *.bat
+

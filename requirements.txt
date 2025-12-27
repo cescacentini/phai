@@ -1,0 +1,30 @@
+# Core dependencies
+python-dateutil>=2.8.2
+pillow>=10.0.0
+numpy>=1.24.0
+
+# AI/ML dependencies
+# Note: torch and torchvision will be installed by CLIP
+transformers>=4.35.0
+sentence-transformers>=2.2.0
+# CLIP installation: pip install git+https://github.com/openai/CLIP.git
+
+# Video processing
+opencv-python>=4.8.0
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.9
+
+# Vector database
+faiss-cpu>=1.7.4
+
+# Web framework
+flask>=3.0.0
+flask-cors>=4.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+
+# Modern GUI (optional - for better looking interface)
+customtkinter>=5.2.0
+
